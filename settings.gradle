@@ -1,0 +1,6 @@
+include ':openCV'
+include ':tesseract'
+include ':dokstorSDK'
+include ':dokstorID'
+include ':app'
+rootProject.name = "TestSDK"
